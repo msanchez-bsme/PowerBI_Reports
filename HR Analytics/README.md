@@ -1,1 +1,2 @@
-
+# HR Analytics in Power BI
+Case study...
